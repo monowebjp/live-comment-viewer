@@ -1,0 +1,22 @@
+{
+  "name": "live-comment-viewer",
+  "version": "1.0.0",
+  "description": "配信用コメントビューワー",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monowebjp/live-comment-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monowebjp/live-comment-viewer/issues"
+  },
+  "homepage": "https://github.com/monowebjp/live-comment-viewer#readme",
+  "devDependencies": {
+    "@vue/cli": "^5.0.8"
+  }
+}

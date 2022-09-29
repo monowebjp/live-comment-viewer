@@ -4,3 +4,7 @@
 * ニコニコ
 * twicas
 * twitch
+
+## nodeのバージョン管理
+### windows
+* fnm
